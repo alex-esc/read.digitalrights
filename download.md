@@ -1,4 +1,4 @@
-[Read the book](https://alex-esc.github.io/read.digitalrights/) | [Download for free](https://alex-esc.github.io/read.digitalrights/download.html) | [Contribute](https://github.com/alex-esc/digitalrights/issues) | [View original source](https://github.com/alex-esc/digitalrights) | [Get updates](https://github.com/alex-esc/digitalrights/blob/master/Get%20updates%20-%20Mailing%20list%20-%20RSS%20feed.md) | [Author info](https://alex-esc.github.io/pages/about.html)
+[Read the book](https://alex-esc.github.io/read.digitalrights/) | [Download for free](https://alex-esc.github.io/read.digitalrights/download.html) | [Contribute](https://github.com/alex-esc/digitalrights/issues) | [View original source](https://github.com/alex-esc/digitalrights) | [Get updates](https://alex-esc.github.io/read.digitalrights/updates.html) | [Author info](https://alex-esc.github.io/pages/about.html)
 
 # Download this book
 
