@@ -2,7 +2,18 @@
 
 CONTENT GOES HERE
 
-
+<div class="container">
+	<div class="leftblock">
+   
+Left
+   
+   </div>
+   <div class="rightblock">
+   
+Right 
+   
+   </div>
+</div>
 
 ---
 

@@ -1,0 +1,5 @@
+.container{width:500px;}
+
+.leftblock, rightblock{width:200px;}
+.leftblock{float:left;}
+.rightblock{float:right;}
