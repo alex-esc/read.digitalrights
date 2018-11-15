@@ -2,6 +2,23 @@
 
 Get notified when this book is updated, there are 2 main methods: Mailing list and RSS
 
+## RSS feed
+
+RSS feeds sometimes called news feeds are an extremely useful and simple way to get notified about news, blog updates or any kind of Internet notification.
+
+To use our RSS feed simply add this link on your news client:
+
+RSS feed:
+
+> https://github.com/alex-esc/digitalrights/releases.atom
+
+Learn about RSS and find a news client of your liking:
+
+* [What is an RSS feed](https://en.wikipedia.org/wiki/RSS)
+* [What is a news aggregator or client](https://en.wikipedia.org/wiki/News_aggregator)
+* [List of popular news clients](https://en.wikipedia.org/wiki/Comparison_of_feed_aggregators)
+
+
 ## Mailing list
 
 You can join our mailing list by signing up to a service called _ifttt_, it creates automated actions on specific triggers.
@@ -26,18 +43,3 @@ Click save and the process is complete!
 
 ![](https://i.imgur.com/ps6rNtZ.png)
 
-## RSS feed
-
-RSS feeds sometimes called news feeds are an extremely useful and simple way to get notified about news, blog updates or any kind of Internet notification.
-
-To use our RSS feed simply add this link on your news client:
-
-RSS feed:
-
-> https://github.com/alex-esc/digitalrights/releases.atom
-
-Learn about RSS and find a news client of your liking:
-
-* [What is an RSS feed](https://en.wikipedia.org/wiki/RSS)
-* [What is a news aggregator or client](https://en.wikipedia.org/wiki/News_aggregator)
-* [List of popular news clients](https://en.wikipedia.org/wiki/Comparison_of_feed_aggregators)
