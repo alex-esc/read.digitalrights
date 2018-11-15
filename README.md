@@ -1,3 +1,5 @@
+[Read the book](https://alex-esc.github.io/read.digitalrights/) | [Download for free](https://alex-esc.github.io/read.digitalrights/download/) | [Contribute](https://github.com/alex-esc/digitalrights/issues) | [View original source](https://github.com/alex-esc/digitalrights) | [Get updates](https://github.com/alex-esc/digitalrights/blob/master/Get%20updates%20-%20Mailing%20list%20-%20RSS%20feed.md) | [Author info](https://alex-esc.github.io/pages/about.html)
+
 This is a writeup about human rights and ethics applied to the Internet, intended to work as a standalone literature work aimed at complete beginners on the topic.
 
 At the moment this project is very small and incomplete, for now you can use it as a jumping of point to learn about new concerns and ideas about the digital world.
@@ -411,6 +413,5 @@ From a happy synth driven instrumental to a calm worship song to a gloomy rap so
 
 This book is work in process, to view a rough draft go to the [gitgub repo](https://github.com/alex-esc/digitalrights), click [here](https://github.com/alex-esc/digitalrights/blob/master/Get%20updates%20-%20Mailing%20list%20-%20RSS%20feed.md) to get updates on a new release of this book.
 
-This work is licensed under creative commons Attribution-ShareAlike 4.0 International, feel free to request changes or modify this project as long as the new work shares the same license.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
