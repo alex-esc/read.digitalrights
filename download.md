@@ -4,19 +4,19 @@
 
 ## Choose your format
 
-### [PDF]()
+* [PDF](https://github.com/alex-esc/read.digitalrights/releases/download/0.1/pdfcompiled.pdf)
 
-### [EPUB]()
+* [EPUB](https://github.com/alex-esc/read.digitalrights/releases/download/0.1/epubcompiled.epub)
 
-### [ODT]()
+* [ODT](https://github.com/alex-esc/read.digitalrights/releases/download/0.1/odtcompiled.odt)
 
-### [DOCX]()
+* [DOCX](https://github.com/alex-esc/read.digitalrights/releases/download/0.1/docxcompiled.docx)
 
-### [Plain Text]()
+* [Plain Text / Markdown](https://github.com/alex-esc/read.digitalrights/releases/download/0.1/mdcompiled.md)
 
-### [Markdown]()
+* [Full Original Source As A Zip File](https://github.com/alex-esc/digitalrights/archive/master.zip)
 
-### [Full Original Source As A Zip File](https://github.com/alex-esc/digitalrights/archive/master.zip)
+
 
 ---
 
