@@ -21,7 +21,7 @@
 
 ---
 
-This book is work in process, to view a rough draft go to the [gitgub repo](https://github.com/alex-esc/digitalrights), click [here](https://github.com/alex-esc/digitalrights/blob/master/Get%20updates%20-%20Mailing%20list%20-%20RSS%20feed.md) to get updates on a new release of this book.
+This book is work in process, to view a rough draft go to the [gitgub repo](https://github.com/alex-esc/digitalrights), click [here](https://alex-esc.github.io/read.digitalrights/updates.html) to get updates on a new release of this book.
 
 
 
