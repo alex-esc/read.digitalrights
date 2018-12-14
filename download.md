@@ -1,28 +1,20 @@
-[Read the book](https://alex-esc.github.io/read.digitalrights/) | [Download for free](https://alex-esc.github.io/read.digitalrights/download.html) | [Contribute](https://github.com/alex-esc/digitalrights/issues) | [View original source](https://github.com/alex-esc/digitalrights) | [Get updates](https://alex-esc.github.io/read.digitalrights/updates.html) | [Author info](https://alex-esc.github.io/en_us/pages/about.html)
+# download
 
+[Read the book](https://alex-esc.github.io/read.digitalrights/) \| [Download for free](https://alex-esc.github.io/read.digitalrights/download.html) \| [Contribute](https://github.com/alex-esc/digitalrights/issues) \| [View original source](https://github.com/alex-esc/digitalrights) \| [Get updates](https://alex-esc.github.io/read.digitalrights/updates.html) \| [Author info](https://alex-esc.github.io/en_us/pages/about.html)
 
-# Download this book
+## Download this book
 
-## Choose your format
+### Choose your format
 
 * [PDF](https://github.com/alex-esc/read.digitalrights/releases/download/0.1/pdfcompiled.pdf)
-
 * [EPUB](https://github.com/alex-esc/read.digitalrights/releases/download/0.1/epubcompiled.epub)
-
 * [ODT](https://github.com/alex-esc/read.digitalrights/releases/download/0.1/odtcompiled.odt)
-
 * [DOCX](https://github.com/alex-esc/read.digitalrights/releases/download/0.1/docxcompiled.docx)
-
 * [Plain Text / Markdown](https://github.com/alex-esc/read.digitalrights/releases/download/0.1/mdcompiled.md)
-
 * [Full Original Source As A Zip File](https://github.com/alex-esc/digitalrights/archive/master.zip)
-
-
-
----
 
 This book is work in process, to view a rough draft go to the [gitgub repo](https://github.com/alex-esc/digitalrights), click [here](https://alex-esc.github.io/read.digitalrights/updates.html) to get updates on a new release of this book.
 
+  
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
