@@ -6,6 +6,9 @@
 
 ### Choose your format
 
+Due to the book changing direction and focus, the links below are out of date, to download the book please download the full repo, and read the contents of the folder 'thesis and essays'. Clicking on *Full Original Source As A Zip File* will download the whole project completely up to date. But PDF or E-pub formats may be out of date.
+
+
 * [PDF](https://github.com/alex-esc/read.digitalrights/releases/download/0.1/pdfcompiled.pdf)
 * [EPUB](https://github.com/alex-esc/read.digitalrights/releases/download/0.1/epubcompiled.epub)
 * [ODT](https://github.com/alex-esc/read.digitalrights/releases/download/0.1/odtcompiled.odt)
